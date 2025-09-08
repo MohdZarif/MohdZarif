@@ -9,10 +9,8 @@
 ## 🚀 About Me
 
 🔹 I'm a Computer Science graduate and passionate software engineer who loves solving real-world problems with code.  
-🔹 I have 8+ months of professional experience as a **Python Developer** and am transitioning towards **data analysis and visualization**.  
+🔹 I have 1+ years of professional experience as a **Python Developer** and am transitioning towards **data analysis and visualization**.  
 🔹 I enjoy working on **web development, APIs, automation, and data-driven projects** while continuously exploring **machine learning** and **AI systems**.
-
-💡 *"Code should not only work — it should be elegant and scalable."*
 
 ---
 
@@ -42,6 +40,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -58,15 +57,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
----
-
-## 🎯 Goals for 2025
-
-✅ Build 5+ data analysis projects and showcase them on GitHub  
-✅ Learn and apply machine learning in real-world projects  
-✅ Contribute to open-source and collaborate with developers worldwide  
-✅ Land a data analyst / Python developer role
 
 ---
 
