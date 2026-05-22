@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Zarif Hussain</h1>
 
 <p align="center">
-  <em>Software Engineer • Python Developer • Aspiring Data Analyst</em>
+  <em>Software Engineer • Python Developer • Java </em>
 </p>
 
 ---
